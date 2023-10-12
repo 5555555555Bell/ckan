@@ -1,4 +1,4 @@
-CKAN: The Open Source Data Portal Software
+https://support.google.com/android/search?q=open+by+defaultCKAN: The Open Source Data Portal Software
 ==========================================
 
 .. image:: https://img.shields.io/badge/license-AGPL-blue.svg?style=flat
